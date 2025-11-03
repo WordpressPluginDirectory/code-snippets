@@ -1,6 +1,21 @@
 # Changelog
 
+## [3.8.2] (2025-10-31)
+
+### Fixed
+* Improved namespaced PHP snippet handling with file based execution.
+
 ## [3.8.1] (2025-10-28)
+
+### Added
+* Code line explanation widget with apply and remove actions for AI-generated comments. (PRO)
+
+### Changed
+* Improved pagination handling and display structure for cloud search results. (PRO)
+* Enhanced styling for codevault rows and inactive tabs in cloud interface. (PRO)
+
+### Removed
+* Removed `guzzlehttp/guzzle` dependency to reduce package conflicts. (PRO)
 
 ### Fixed
 * Improved file-based snippet handling for multisite installations.
