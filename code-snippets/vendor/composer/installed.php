@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'codesnippetspro/code-snippets',
-        'pretty_version' => 'v3.8.2',
-        'version' => '3.8.2.0',
-        'reference' => '18d4a131e05a8def2ccc5053521bc13c4d99f2d5',
+        'pretty_version' => 'v3.9.2',
+        'version' => '3.9.2.0',
+        'reference' => '2a8dcc66701b25f0513d56dedc167c067e32f1fc',
         'type' => 'wordpress-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'codesnippetspro/code-snippets' => array(
-            'pretty_version' => 'v3.8.2',
-            'version' => '3.8.2.0',
-            'reference' => '18d4a131e05a8def2ccc5053521bc13c4d99f2d5',
+            'pretty_version' => 'v3.9.2',
+            'version' => '3.9.2.0',
+            'reference' => '2a8dcc66701b25f0513d56dedc167c067e32f1fc',
             'type' => 'wordpress-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
